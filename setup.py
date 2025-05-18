@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='MistralGPTIntegration',
-    version='0.0.2',
+    version='2025.5.180912',
     author='Eugene Evstafev',
     author_email='chigwel@gmail.com',
     description='Integration utility for Mistral AI API to provide GPT-based functionalities.',
